@@ -11,6 +11,7 @@ export class PCView extends React.Component {
                     height: '100%'
                 }}>
                 <Sidebar />
+                
             </div>
         );
     }

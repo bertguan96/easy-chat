@@ -1,16 +1,12 @@
 import React from "react";
 
-/**
- * pc端容器
- */
-export class PCContainer extends React.Component {
+export class List extends React.Component {
 
     public render() {
         return (
             <div>
-                
+
             </div>
         );
     }
-    
 }
